@@ -1,0 +1,19 @@
+.border{
+    border: 1px black solid;
+}
+.main{
+    width: 200px;
+}
+.month_and_hour{
+    display: flex;
+    justify-content: space-evenly;
+}
+.month{
+    width: 30%;
+}
+.hour{
+    width: 60%;
+}
+table, tr, td{
+    border: 1px black solid;
+}
